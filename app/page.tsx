@@ -1,5 +1,5 @@
 import Footer from "@/components/GridItems/Footer";
-import LeftPanel from "@/components/left-panel";
+import LeftPanel from "@/components/GridItems/LeftPanel";
 import RightPanel from "@/components/right-panel";
 
 
