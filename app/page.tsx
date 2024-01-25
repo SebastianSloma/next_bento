@@ -1,6 +1,6 @@
 import Footer from "@/components/GridItems/Footer";
 import LeftPanel from "@/components/GridItems/LeftPanel";
-import RightPanel from "@/components/right-panel";
+// import RightPanel from "@/components/right-panel";
 
 
 export default function Home() {
@@ -14,7 +14,7 @@ export default function Home() {
         {/* Left Panel */}
         <LeftPanel />
         {/* Right Panel */}
-        <RightPanel />
+        {/* <RightPanel /> */}
         {/* Footer for Mobile */}
         <div className="flex pb-6 xl:hidden">
           <Footer />
