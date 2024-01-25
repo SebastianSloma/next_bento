@@ -168,7 +168,7 @@ const GridItems: GridItemInterface[] = [
 export const siteConfig = {
   creator: "Sebastian",
   title: "Front-end Dev",
-  bio: "I like coding",
+  bio: " I'm focusing on growth TypeScript, React and Next.js skills. I enjoy coding, and I'm moving towards full stack. https://bento.me/sebastiansloma",
   location: "Ibiza, España",
   locationLink:
     "https://maps.app.goo.gl/Ky3Wk5xhD5kEjxBe9",
