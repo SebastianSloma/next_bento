@@ -1,5 +1,5 @@
 'use client';
-import { siteConfig } from '../config/site-config';
+import { siteConfig } from './config/site-config';
 import { Mail, MapPin } from 'lucide-react';
 import Image from 'next/image';
 import Footer from './Footer';
@@ -17,10 +17,10 @@ const LeftPanel = () => {
 						loading='eager'
 						alt='avatar'
 						placeholder='blur'
-						src='/pp-new3.png'
+						src='/7.png'
 						width={120}
 						height={120}
-						blurDataURL='/pp-new3.png'
+						blurDataURL='/7.png'
 					/>
 				</div>
 
