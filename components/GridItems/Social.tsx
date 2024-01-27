@@ -1,6 +1,6 @@
 import Link from 'next/link';
-import Button from '../button';
-import Icon from '../icon';
+import Button from '../Button';
+import Icon from '../Icon';
 import { GridItemInterface } from '../config/site-config';
 
 const Social = ({ item }: { item: GridItemInterface }) => {

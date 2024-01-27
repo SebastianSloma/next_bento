@@ -1,6 +1,6 @@
 import { GridItemInterface } from '../config/site-config';
 import Link from 'next/link';
-import Icon from '../icon';
+import Icon from '../Icon';
 
 const Mentor = ({ item }: { item: GridItemInterface }) => {
 	return (
