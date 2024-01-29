@@ -130,8 +130,9 @@ const GridItems: GridItemInterface[] = [
 	},
 	{
 		layout: '2x2',
-		type: 'social',
+		type: 'equipment',
 		title: 'Full-stack',
+		image: '/3.png',
 		username: '@seb',
 		description:
 			'Full-stack.',
