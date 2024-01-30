@@ -30,7 +30,8 @@ export interface GridItemInterface {
 const GridItems: GridItemInterface[] = [
 	{
 		layout: '2x2',
-		type: 'social',
+		type: 'equipment',
+		image:'/1.png',
 		title: 'Youtube',
 		icon: 'youtube',
 		username: '@seb',
@@ -42,7 +43,8 @@ const GridItems: GridItemInterface[] = [
 	},
 	{
 		layout: '1x2',
-		type: 'social',
+		type: 'equipment',
+		image:'/5.png',
 		title: 'Discord',
 		icon: 'discord',
 		username: '@seb',
@@ -53,7 +55,8 @@ const GridItems: GridItemInterface[] = [
 	},
 	{
 		layout: '1x2',
-		type: 'social',
+		type: 'equipment',
+		image:'/8.png',
 		title: 'Github',
 		icon: 'github',
 		username: '@seb',
@@ -88,7 +91,8 @@ const GridItems: GridItemInterface[] = [
 	},
 	{
 		layout: '2x2',
-		type: 'social',
+		type: 'equipment',
+image:'/4.png',
 		title: 'Twitter',
 		icon: 'twitter',
 		username: '@Seb',
@@ -101,7 +105,8 @@ const GridItems: GridItemInterface[] = [
 	},
 	{
 		layout: '2x1',
-		type: 'mentor',
+		type: 'equipment',
+		image:'/6.png',
 		title: 'Next.js',
 		icon: 'superpeer',
 		promotion: 'Dev',
@@ -111,7 +116,8 @@ const GridItems: GridItemInterface[] = [
 	},
 	{
 		layout: '2x1',
-		type: 'mentor',
+		type: 'equipment',
+		image:'/10.png',
 		title: 'Supabase',
 		icon: 'superpeer',
 		promotion: 'Dev',
@@ -122,12 +128,14 @@ const GridItems: GridItemInterface[] = [
 	{
 		layout: '2x1',
 		type: 'equipment',
-		image:'/4.png',
+		image:'/9.png',
 		title: 'Dev',
 		icon: 'github',
 		color: '#070707',
 		buttonLink: 'https://github.com/',
 		stars: 73,
+		description:
+			'Full-stack.',
 	},
 	{
 		layout: '2x2',
