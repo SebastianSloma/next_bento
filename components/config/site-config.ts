@@ -121,7 +121,8 @@ const GridItems: GridItemInterface[] = [
 	},
 	{
 		layout: '2x1',
-		type: 'project',
+		type: 'equipment',
+		image:'/4.png',
 		title: 'Dev',
 		icon: 'github',
 		color: '#070707',
